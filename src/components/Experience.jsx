@@ -9,15 +9,9 @@ export default function Experience(){
           {data.map((e, idx) => (
             <div key={idx} className="node reveal">
               <div className="dot"></div>
-              <h3 className="font-semibold">
-  {e.role} — <span className="text-zinc-500">{e.company}</span>
-</h3>
-<div className="meta">
-  {e.location} • {e.start} – {e.end}
-</div>
-<ul className="mt-4 list-disc ml-6 space-y-2 text-zinc-700 dark:text-zinc-300">
-  {e.bullets.map((b, i) => <li key={i}>{b}</li>)}
-</ul>
+              <h3 className="font-semibold">{e.role} — <span className="text-zinc-500">{e.company}</span></h3>
+              <div className="text-sm text-zinc-500">{e.location} • {e.start} – {e.end}</div>
+              <ul>
                 {e.bullets.map((b,i)=><li key={i}>{b}</li>)}
               </ul>
             </div>
