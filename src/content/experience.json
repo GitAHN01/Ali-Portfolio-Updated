@@ -1,0 +1,39 @@
+[
+  {
+    "company": "Memphis Grizzlies, LLC.",
+    "role": "Cybersecurity Program Lead",
+    "location": "Memphis, TN",
+    "start": "Jul 2023",
+    "end": "Present",
+    "bullets": [
+      "Mature the organization\u2019s first enterprise-wide cybersecurity program across Business Ops, Basketball Ops, and arena OT/IoT\u2014integrating Rapid7 SIEM/SOAR, SentinelOne EDR, and Microsoft Defender.",
+      "Achieve near real-time detection & response (MTTD ~1 min, MTTR ~5\u201315 mins) via alert tuning, automation runbooks, and MSSP workflows.",
+      "Deliver ~30% cost optimization with 90%+ asset visibility; consolidate overlapping tools/vendors.",
+      "Lead Zero Trust rollout with Cloudflare ZTNA + device posture; decommission legacy VPN; reduce access tickets by ~80%.",
+      "Operationalize vulnerability management (InsightVM) with risk-based SLAs and patch waves to eliminate critical backlog.",
+      "Build exec dashboards & quarterly briefs aligning risk, roadmap, and budget to business outcomes."
+    ]
+  },
+  {
+    "company": "BlackRock, Inc.",
+    "role": "Senior Associate \u2014 GRC",
+    "location": "New York, NY",
+    "start": "Jun 2022",
+    "end": "Dec 2022",
+    "bullets": [
+      "Execute technical risk assessments and control testing across cloud and enterprise platforms; enable shift-left remediation.",
+      "Standardize audit readiness and evidence collection, reducing time-to-close for observations."
+    ]
+  },
+  {
+    "company": "SS&C Technologies, Inc.",
+    "role": "Senior Associate \u2014 IT Audit",
+    "location": "New York, NY",
+    "start": "Nov 2017",
+    "end": "Apr 2021",
+    "bullets": [
+      "Lead 12+ IT audits annually (SOX, NIST, GDPR) and mentor analysts while aligning findings to business impact.",
+      "Automate recurring audit tests/scripts and build risk dashboards, saving 60+ hours per cycle."
+    ]
+  }
+]

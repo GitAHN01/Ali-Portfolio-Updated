@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "\ud83d\udee1\ufe0f",
+    "title": "Security Operations",
+    "desc": "Rapid7 SIEM/SOAR, SentinelOne, MDE; detection engineering & IR playbooks."
+  },
+  {
+    "icon": "\u2699\ufe0f",
+    "title": "Vulnerability Mgmt",
+    "desc": "InsightVM, patch orchestration, risk-based SLAs, dashboards."
+  },
+  {
+    "icon": "\u2601\ufe0f",
+    "title": "Zero Trust & Cloud",
+    "desc": "Cloudflare ZTNA, Azure AD/Entra, Conditional Access, device posture."
+  },
+  {
+    "icon": "\ud83d\udd12",
+    "title": "Identity & PAM",
+    "desc": "Delinea (Thycotic) PAM; vaulting, session monitoring, approvals."
+  },
+  {
+    "icon": "\ud83e\uddf0",
+    "title": "Security Engineering",
+    "desc": "Log pipelines, correlation rules, SOAR runbooks, hardening baselines."
+  },
+  {
+    "icon": "\ud83d\udcca",
+    "title": "Risk & Governance",
+    "desc": "Metrics (MTTD/MTTR), AI governance, exec reporting, roadmaps."
+  }
+]

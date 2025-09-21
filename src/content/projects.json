@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Detection & Response Engineering (SIEM/SOAR)",
+    "image": "/dr-thumb.jpg",
+    "summary": "Signal-to-noise tuning, correlation rules, and SOAR runbooks that cut MTTR.",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "title": "Zero Trust (Cloudflare ZTNA + Device Posture)",
+    "image": "/ztna-thumb.jpg",
+    "summary": "Decommission VPN, apply device posture and conditional access; ~80% fewer tickets.",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "title": "Vulnerability & Patch Orchestration (InsightVM)",
+    "image": "/vm-thumb.jpg",
+    "summary": "Risk-based SLAs + patch waves to eliminate critical backlog and raise SLA adherence.",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  }
+]

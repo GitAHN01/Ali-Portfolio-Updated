@@ -1,0 +1,20 @@
+{
+  "name": "Ali H. Naqvi",
+  "role": "Cybersecurity Operations | Security Engineering | Risk & AI Governance",
+  "tagline": "Hands-on security engineer building reliable SecOps, Zero Trust, and risk/AI governance that measurably reduces real-world risk.",
+  "location": "NYC area",
+  "introVideoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+  "resumeUrl": "/resume.pdf",
+  "email": "a.naqvi1223@gmail.com",
+  "phone": "(516) 413-9952",
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ali-naq/"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/"
+    }
+  ]
+}
