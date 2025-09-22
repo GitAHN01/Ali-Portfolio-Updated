@@ -22,7 +22,9 @@
     "end": "Dec 2022",
     "bullets": [
       "Execute technical risk assessments and control testing across cloud and enterprise platforms; enable shift-left remediation.",
-      "Standardize audit readiness and evidence collection, reducing time-to-close for observations."
+      "Standardize audit readiness and evidence collection, reducing time-to-close for observations.",
+      "Leveraged Archer GRC to document and track control gaps and monitor remediation progress, ensuring centralized‬ governance and risk assessment readiness across all risk domains.‬"
+      
     ]
   },
   {
@@ -33,7 +35,8 @@
     "end": "Apr 2021",
     "bullets": [
       "Lead 12+ IT audits annually (SOX, NIST, GDPR) and mentor analysts while aligning findings to business impact.",
-      "Automate recurring audit tests/scripts and build risk dashboards, saving 60+ hours per cycle."
+      "Automate recurring audit tests/scripts and build risk dashboards, saving 60+ hours per cycle.",
+      "Partnered with internal teams to define control ownership, streamline evidence‬ workflows, and align technical audit procedures with business risk priorities.‬"
     ]
   }
 ]
