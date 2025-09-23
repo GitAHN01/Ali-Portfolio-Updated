@@ -1,6 +1,7 @@
 import React from 'react'
 import site from '../content/site.json'
-export default function Hero(){
+
+export default function Hero() {
   return (
     <section id="hero" className="section">
       <div className="container grid md:grid-cols-2 gap-10 items-center">
