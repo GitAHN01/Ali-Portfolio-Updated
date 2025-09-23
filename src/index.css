@@ -18,3 +18,14 @@ html, body { min-height: 100%; }
 .timeline .meta { @apply text-sm text-zinc-500 mt-1; }
 .timeline ul { @apply mt-4 list-disc ml-6 space-y-2 text-zinc-700 dark:text-zinc-300; }  /* more top margin + left indent */
 .timeline li { @apply leading-relaxed; }
+.video-vertical {
+  width: 100%;              /* or a max-width you want, like 300px or so */
+  max-width: 320px;         /* optional limit on width */
+  aspect-ratio: 9 / 16;      /* portrait orientation */
+}
+
+.video-vertical iframe {
+  width: 100%;
+  height: 100%;
+  border: none;             /* clean look */
+}
