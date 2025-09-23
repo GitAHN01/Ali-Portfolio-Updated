@@ -24,7 +24,7 @@ export default function Hero(){
           <div className="card overflow-hidden">
             <div className="aspect-video">
               <iframe
-                src={site.introVideoUrl}
+                src={https://youtube.com/shorts/7ES5V2GXUJs?feature=share}
                 title="Intro video"
                 className="w-full h-full"
                 frameBorder="0"
