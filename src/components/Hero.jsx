@@ -25,12 +25,11 @@ export default function Hero() {
           <div className="card overflow-hidden">
             <div className="aspect-video">
               <iframe
-                src={site.introVideoUrl}
-                title="Intro video"
-                className="w-full h-full"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
+      src={site.introVideoUrl}
+      title="Intro video"
+      className="w-full h-full"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowFullScreen
               />
             </div>
           </div>
