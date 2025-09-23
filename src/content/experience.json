@@ -7,7 +7,7 @@
     "end": "Present",
     "bullets": [
       "Mature the organization\u2019s first enterprise-wide cybersecurity program across Business Ops, Basketball Ops, and arena OT/IoT\u2014integrating Rapid7 SIEM/SOAR, SentinelOne EDR, and Microsoft Defender.",
-      "Achieve near real-time detection & response (MTTD ~1 min, MTTR ~5\u201315 mins) via alert tuning, automation runbooks, and MSSP workflows.",
+      "Achieve near real-time detection & response (MTTD ~1 min, MTTR ~5 mins) via alert tuning, automation runbooks, and MSSP workflows.",
       "Deliver ~30% cost optimization with 90%+ asset visibility; consolidate overlapping tools/vendors.",
       "Lead Zero Trust rollout with Cloudflare ZTNA + device posture; decommission legacy VPN; reduce access tickets by ~80%.",
       "Operationalize vulnerability management (InsightVM) with risk-based SLAs and patch waves to eliminate critical backlog.",
