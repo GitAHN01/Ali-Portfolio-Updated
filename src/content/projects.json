@@ -1,9 +1,9 @@
 [
   {
-    "title": "Detection & Response Engineering (SIEM/SOAR)",
+    "title": "Detection & Response Engineering Optimization",
     "image": "/dr-thumb.jpg",
-    "summary": "Signal-to-noise tuning, correlation rules, and SOAR runbooks that cut MTTR.",
-    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    "summary": "SIEM, EDR, Detection Rules, and Runbooks that cut MTTR.",
+    "videoUrl": "https://youtu.be/deSvK21GgAE"
   },
   {
     "title": "Zero Trust (Cloudflare ZTNA + Device Posture)",
