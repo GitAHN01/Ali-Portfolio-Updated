@@ -1,7 +1,7 @@
 [
   {
     "title": "Detection & Response Engineering Optimization",
-    "image": "/dr-thumb.jpg",
+    "image": "https://img.youtube.com/vi/deSvK21GgAE/maxresdefault.jpg",
     "summary": "SIEM, EDR, Detection Rules, and Runbooks that cut MTTR.",
     "videoUrl": "https://www.youtube-nocookie.com/embed/deSvK21GgAE"
   },
