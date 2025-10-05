@@ -2,14 +2,14 @@
   {
     "title": "Detection & Response Optimization",
     "image": "https://img.youtube.com/vi/deSvK21GgAE/maxresdefault.jpg",
-    "summary": "SIEM, EDR, Detection Rules, and Runbooks that cut MTTR.",
+    "summary": "Operationalized SIEM, EDR, Detection Rules, and Runbookss to improve signal-to-noise ratio, automate triage, and cut mean time to response (MTTR) from hours to minutes.",
     "videoUrl": "https://www.youtube-nocookie.com/embed/deSvK21GgAE"
   },
   {
-    "title": "Zero Trust (Cloudflare ZTNA + Device Posture)",
-    "image": "/ztna-thumb.jpg",
-    "summary": "Decommission VPN, apply device posture and conditional access; ~80% fewer tickets.",
-    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  "title": "Cloudflare Zero Trust Migration: Secure Access Without VPNs",
+  "image": "https://img.youtube.com/vi/deSvK21GgAE/maxresdefault.jpg",
+  "summary": "Led the enterprise rollout of Cloudflare Zero Trust, replacing legacy VPNs with identity-based access and device posture checks. Reduced access tickets by 80% and strengthened endpoint-to-cloud security with ZTNA principles.",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/sLB_Dqq_jOg"
   },
   {
     "title": "Vulnerability & Patch Orchestration (InsightVM)",
