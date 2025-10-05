@@ -4,8 +4,8 @@ export default function Contact(){
   return (
     <section id="contact" className="section">
       <div className="container max-w-3xl">
-        <h2 className="text-2xl md:text-3xl font-semibold mb-6">Get in touch</h2>
-        <form className="card p-6 space-y-4" action="https://formspree.io/f/your-id" method="POST">
+        <h2 className="text-2xl md:text-3xl font-semibold mb-6">Hire Me</h2>
+        <form className="card p-6 space-y-4" action="https://formspree.io/f/mldpljjw" method="POST">
           <div className="grid md:grid-cols-2 gap-4">
             <div>
               <label className="text-sm block mb-1">Name</label>
