@@ -12,9 +12,9 @@
   "videoUrl": "https://www.youtube-nocookie.com/embed/sLB_Dqq_jOg"
   },
   {
-    "title": "Vulnerability & Patch Orchestration (InsightVM)",
-    "image": "/vm-thumb.jpg",
-    "summary": "Risk-based SLAs + patch waves to eliminate critical backlog and raise SLA adherence.",
-    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    "title": "Vulnerability & Patch Management: Building a Risk-Based Program",
+    "image": "https://img.youtube.com/vi/BC12P5rQjVM/hqdefault.jpg",
+    "summary": "In this project breakdown, I share how I established a scalable vulnerability and patch management program — from mapping our environment and automating remediation to driving collaboration across IT and leadership.",
+    "videoUrl": "https://www.youtube.com/embed/BC12P5rQjVM"
   }
 ]
